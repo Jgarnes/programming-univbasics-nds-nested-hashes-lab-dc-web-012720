@@ -15,7 +15,7 @@ result = [
   {:name =>"Pat Monteseian", :occupation =>"Staff"},
   {:name =>"Kate Gompert", :occupation =>"None"},
   {:name =>"Bruce Green", :occupation =>"Fan of Mildred"}]
-result 
+return result 
 end
 
 def literal_aoh
