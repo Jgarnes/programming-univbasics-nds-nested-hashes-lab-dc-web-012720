@@ -15,8 +15,9 @@ result = [
   {:name =>"Pat Monteseian", :occupation =>"Staff"},
   {:name =>"Kate Gompert", :occupation =>"None"},
   {:name =>"Bruce Green", :occupation =>"Fan of Mildred"}]
-return result 
+result
 end
+assembled_aoh
 
 def literal_aoh
   # Using Array literal syntax only, build a nested array that uses the data in
